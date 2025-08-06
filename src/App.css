@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* 👇 Apply monospace font globally */
+body {
+    @apply font-serif;
+}
